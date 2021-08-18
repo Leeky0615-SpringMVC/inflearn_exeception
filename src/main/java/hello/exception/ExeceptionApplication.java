@@ -1,4 +1,4 @@
-package hello.exeception;
+package hello.exception;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

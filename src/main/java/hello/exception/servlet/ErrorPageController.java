@@ -1,4 +1,4 @@
-package hello.exeception.servlet;
+package hello.exception.servlet;
 
 
 import lombok.extern.slf4j.Slf4j;
