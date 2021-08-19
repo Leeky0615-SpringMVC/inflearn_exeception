@@ -18,7 +18,7 @@ import java.util.Map;
 @Controller
 public class ErrorPageController {
 
-    //RequestDispatcher 상수로 정의되어 있음
+    //RequestDispatcher 상수로 정의되어 있음.
     public static final String ERROR_EXCEPTION ="javax.servlet.error.exception";
     public static final String ERROR_EXCEPTION_TYPE ="javax.servlet.error.exception_type";
     public static final String ERROR_MESSAGE = "javax.servlet.error.message";
